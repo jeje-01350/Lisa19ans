@@ -77,7 +77,7 @@ function Home() {
         exit={{ opacity: 0, y: -20 }}
       >
         <WelcomeCard>
-          <h1>💝 Coucou ma Lisa chérie 💝</h1>
+          <h1>💝 Coucou mon coeur 💝</h1>
           <img 
             src="https://media.giphy.com/media/LnKM6jbBenbVXp1qA9/giphy.gif" 
             alt="Love Heart"
