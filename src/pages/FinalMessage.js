@@ -113,6 +113,12 @@ function FinalMessage() {
           Ce cadeau est valable jusqu'à la fin de l'année prochaine.
           Prends ton temps pour choisir ta destination de rêve !
         </p>
+        <p style={{ fontSize: '0.9em', color: '#ff6b6b', marginTop: '15px' }}>
+          P.S.: Si les voyages ce n'est pas ton truc... 
+          On peut toujours échanger contre un iPhone 15 ! 📱✨
+          (Mais franchement, entre nous, les souvenirs d'un voyage ça dure plus longtemps qu'un téléphone... 
+          même si c'est un iPhone ! 😉)
+        </p>
         <h3>Je t'aime infiniment ! ❤️</h3>
       </motion.div>
     </motion.div>
